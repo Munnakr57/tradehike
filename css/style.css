@@ -357,7 +357,9 @@ div#navbarSupportedContent ul li{
 .blue-background .all_btn a {
     border-color: var(--secondary-color);
 }
-
+a.navbar-brand img {
+    width: 160px;
+}
 
 
 
